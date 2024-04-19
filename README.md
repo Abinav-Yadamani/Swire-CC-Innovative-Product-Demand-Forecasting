@@ -30,5 +30,5 @@ Post product launch, relying on forecasts might not be accurate as demand in tho
 
 External factors beyond product and demographic attributes can potentially impact sales. For instance, for the closest matched product that was used for forecasts, if in the future Swire happens to have better marketing strategies and appealing packaging, this can shoot up sales much beyond the estimated sales.
 
-### Lessons Learned
+### Takeaways and Lessons Learnt
 This project provided valuable insights into the complexities and uncertainities of sales forecasting in the beverage industry. Having to work with limited edition products gave us an opportunity to extensively focus on data preparation and pre modelling analysis which generally is the case in real world analytics use cases. We learnt that based on the data being used, best model often changes and hence it is critical to always use multiple models to compare and interpret forecasts. Moreover, continuous adaptation to evolving market trends and need for integrating external data sources such as social media analytics enhanced the robustness of our forecasting models and is a vital lesson.
