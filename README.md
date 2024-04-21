@@ -32,3 +32,9 @@ External factors beyond product and demographic attributes can potentially impac
 
 ### Takeaways and Lessons Learnt
 This project provided valuable insights into the complexities and uncertainities of sales forecasting in the beverage industry. Having to work with limited edition products gave us an opportunity to extensively focus on data preparation and pre modelling analysis which generally is the case in real world analytics use cases. We learnt that based on the data being used, best model often changes and hence it is critical to always use multiple models to compare and interpret forecasts. Moreover, continuous adaptation to evolving market trends and need for integrating external data sources such as social media analytics enhanced the robustness of our forecasting models and is a vital lesson.
+
+### Link to EDA File
+[EDA](https://github.com/Abinav-Yadamani/Swire-CC-Innovative-Product-Demand-Forecasting/blob/main/EDA%20.ipynb)
+
+### Link to Modeling File
+[Modeling](https://github.com/Abinav-Yadamani/Swire-CC-Innovative-Product-Demand-Forecasting/blob/main/Modelling.ipynb)
